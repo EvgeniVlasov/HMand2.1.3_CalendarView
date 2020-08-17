@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalendarView</string>
+    <string name="btnStart">Старт задачи</string>
+    <string name="btnFinish">Окончание задачи</string>
+    <string name="calendarStart"></string>
+    <string name="calendarFinish"></string>
+    <string name="btnOk">Ок</string>
+</resources>
